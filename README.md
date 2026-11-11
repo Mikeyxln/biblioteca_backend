@@ -1,13 +1,4 @@
-# biblioteca-backend-base (proyecto para completar con los alumnos)
-
-Esqueleto con **arquitectura MVC en capas** que ya trae la base del proyecto hecha. Los alumnos **continúan desde los services**
-(Paso 4, Archivo 4.4 de la guía) y completan **service, config y controller**.
-
-Sigue la guía: [`../docs/GUIA-COMPLETA-PASO-A-PASO.md`](../docs/GUIA-COMPLETA-PASO-A-PASO.md)
-y compara con el proyecto terminado: [`../biblioteca-backend`](../biblioteca-backend).
-
-## Qué ya viene hecho y qué falta
-
+# biblioteca-backend-base
 ```
 cl.ipss.biblioteca
 ├── enums         ✔ hecho   (EstadoPrestamo)
