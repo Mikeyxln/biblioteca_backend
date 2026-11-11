@@ -26,7 +26,7 @@ Para usar solo Angular más adelante basta con `WEB_THYMELEAF=false` (no hay que
 
 Los paquetes que faltan tienen un `package-info.java` con un `TODO` que indica qué crear.
 
-## Qué pasa si lo levantas tal cual
+## Qué pasa si lo levantas tal cual...
 
 El proyecto **compila y arranca sin errores** aunque no existan services, config ni controllers: nada del código existente
 depende de ellos. Swagger abre vacío (sin endpoints) hasta completar el Paso 6.
